@@ -17,7 +17,7 @@ Dataset: https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 
 3. **ETL 3: Prediction on New Data**  
    - Load the trained model and process new bookings.  
-   - Predict cancellation probability and store results.  
+   - Predict cancellations and store results.  
 
 ## 🔹 Data Exploration
 Before building the ETL pipeline, we perform **Exploratory Data Analysis (EDA)** to understand the dataset. Key questions include:  
