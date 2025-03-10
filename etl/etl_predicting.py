@@ -8,8 +8,8 @@ def extract():
 
 @task 
 def transform(X_test, y_test):
-    logreg = joblib.load('./data/model.bin')
-    result = logreg.predict(X_test)
+    model = joblib.load('./data/model.bin')
+    result = model.predict(X_test)
     return result
 
 @task 
