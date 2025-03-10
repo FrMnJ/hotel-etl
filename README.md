@@ -25,3 +25,4 @@ Before building the ETL pipeline, we perform **Exploratory Data Analysis (EDA)**
 - Are **seasonal trends** influencing cancellations?  
 - Do **previous cancellations** predict future cancellations?  
 - Correlation between the columns
+- Results 👀
